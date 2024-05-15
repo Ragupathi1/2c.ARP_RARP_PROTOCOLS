@@ -1,5 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-
+REG.NO:212221040135
+NAME: Ragupathi P
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 
